@@ -70,7 +70,7 @@ const TravelJournal = () => {
                     href={data.googleMapsLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-gray-400 underline"
+                    className="text-gray-400 underline hover:text-gray-600"
                   >
                     View on Google Maps
                   </a>
