@@ -64,7 +64,7 @@ const TravelJournal = () => {
                     <span>
                       <IoIosPin className="text-red-400" />
                     </span>
-                    {data.title}
+                    {data.country}
                   </p>
                   <a
                     href={data.googleMapsLink}
