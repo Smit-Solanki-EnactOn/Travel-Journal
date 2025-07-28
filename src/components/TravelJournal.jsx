@@ -51,7 +51,7 @@ const TravelJournal = () => {
               <div className="w-full sm:w-52 aspect-[3/4] rounded-md overflow-hidden shrink-0">
                 <img
                   src={data.img.src}
-                  alt={data.title}
+                  alt={data.alt}
                   className="w-full h-full object-cover"
                 />
               </div>
