@@ -2,11 +2,12 @@
 
 @theme {
     --aspect-ratio-portrait: 3 / 4;
-
+    --font-family-inter: "Inter", sans-serif;
 }
 
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: var(--font-family-inter);
 }
